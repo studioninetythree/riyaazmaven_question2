@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/riyaazmaven.iml" filepath="$PROJECT_DIR$/riyaazmaven.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/riyaazmavenq2.iml" filepath="$PROJECT_DIR$/riyaazmavenq2.iml" />
+>>>>>>> 985459b40d689d0aa5168215a10e666d8e5f266b
     </modules>
   </component>
 </project>

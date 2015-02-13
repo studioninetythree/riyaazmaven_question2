@@ -23,7 +23,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+<<<<<<< HEAD
         <module name="riyaazmaven" />
+=======
+        <module name="riyaazmavenq2" />
+>>>>>>> 985459b40d689d0aa5168215a10e666d8e5f266b
       </profile>
     </annotationProcessing>
   </component>

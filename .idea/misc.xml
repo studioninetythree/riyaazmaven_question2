@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ClientPropertiesManager">
     <properties class="javax.swing.AbstractButton">
       <property name="hideActionText" class="java.lang.Boolean" />
@@ -38,6 +39,8 @@
       <property name="caretWidth" class="java.lang.Integer" />
     </properties>
   </component>
+=======
+>>>>>>> 985459b40d689d0aa5168215a10e666d8e5f266b
   <component name="CompilerConfiguration">
     <option name="DEFAULT_COMPILER" />
     <resourceExtensions />
@@ -69,7 +72,11 @@
   <component name="EntryPointsManager">
     <entry_points version="2.0" />
   </component>
+<<<<<<< HEAD
   <component name="IdProvider" IDEtalkID="F56A11D06DC35223D60EE04541D7F60E" />
+=======
+  <component name="IdProvider" IDEtalkID="C328229ED7A04764E64721A5480E7B83" />
+>>>>>>> 985459b40d689d0aa5168215a10e666d8e5f266b
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
